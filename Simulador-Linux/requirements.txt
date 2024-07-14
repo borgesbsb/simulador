@@ -1,0 +1,5 @@
+streamlit 
+xlrd
+numpy
+pandas 
+PyMySQL  
